@@ -1,2 +1,2 @@
 # Dirlit
-Directory brute force tool
+Directories and file names brute force tool
